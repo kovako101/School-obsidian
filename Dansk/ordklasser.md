@@ -1,0 +1,4 @@
+#dansk 
+[[navneord]]
+[[udsagnsord]]
+[[tillægsord]]

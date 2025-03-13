@@ -1,0 +1,24 @@
+---
+tags:
+  - fysik-kemi
+---
+### fagord
+- Mineralske stoffer (Stoffer man finder i jorden)
+- fotosyntese  (optager energi gennem solen)
+- Minimunsloven (Det stof der er mindst af halter plantens vækst)
+- makronæringdsstoffer (er næringsstoffer som bruger mere end et kilo per år af det stof)
+- mikronæringsstoffer (Næringstoffer planten bruger mindre end et kilo af)
+- katalysator (Et stof som fremmer en kemisk process uden selv at svinde)
+- calciumhydrogencarbonat (ca(HCO_3)_2)$$Ca^{++} + 2H^++2CO_3^{--} --> Ca(HCO_3)_2$$
+- Drænrør (Dræner vandet i marken)
+- rodzoneanlæget (Bruger naturlige processer til at rense vand for nitrater og så tilsætter man jernslalte)
+- vækstfactor
+- Ioner
+- positionbestemt gødning
+- N mangel = gulig
+- P  = forsinket frømodning
+- K  = stængel bliver svag
+- Kalk gør  jorden mere basisk
+- Lerjord er negativ ladet
+- jordvandet er positivt ladet
+-

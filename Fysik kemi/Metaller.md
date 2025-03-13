@@ -1,0 +1,11 @@
+---
+tags:
+  - fysik-kemi
+---
+- Metaller er gode ledere med varme og el
+- De har ofte en metalglans
+- Tunge metaller er dårlige for miljøet
+- Et tungt metal skal have en massefylde over 5g/cm^3
+- Når noget reduceres får det en elektron
+- Når nogen oxideres mister den en elektron
+- 

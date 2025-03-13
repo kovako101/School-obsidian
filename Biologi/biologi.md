@@ -1,0 +1,13 @@
+#fag
+[[evolution]]
+[[åndedræt og kredsløb]]
+[[systematik]]
+[[celler]]
+[[planter]]
+[[mikro organismer]]
+[[bioteknologi]]
+[[plast]]
+[[landbrug]]
+[[genetik]]
+[[basis bio]]
+[[Økosystemer]]
